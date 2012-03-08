@@ -1,7 +1,7 @@
 QProtoViewer
 ============
 
-A qt-based protocol buffer viewer.
+A qt-based Google Protocol Buffer viewer.
 
 In development ...
 
