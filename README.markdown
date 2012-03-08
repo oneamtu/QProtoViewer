@@ -1,5 +1,9 @@
-ProtoViewer
+QProtoViewer
 ============
+
+A qt-based protocol buffer viewer.
+
+In development ...
 
 @author Octavian Neamtu
 
